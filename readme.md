@@ -1,6 +1,6 @@
 # GitHub-Discord Integration Bot
 
-![GitHub Stars](https://img.shields.io/github/stars/gvolexe/github_discord_bot?style=social) ![GitHub Forks](https://img.shields.io/github/forks/gvolexe/github_discord_bot?style=social) ![License](https://img.shields.io/github/license/gvolexe/github_discord_bot)
+![License](https://img.shields.io/github/license/gvolexe/github_discord_bot)
 
 ## Table of Contents
 
