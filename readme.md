@@ -331,7 +331,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## License
 
-Distributed under the [MIT License](https://chatgpt.com/c/LICENSE). See `LICENSE` for more information.
+Distributed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). See `LICENSE` for more information.
 
 ## Contact
 
